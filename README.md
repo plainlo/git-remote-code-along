@@ -18,3 +18,10 @@ git add = alerts git that this file exists
 
 git commit = saves this file to the git repo
 #git commit -m "whatever commit message you want to be associated with the file" <-- saves the file to the git repo, with the message
+
+git push = pushes file to the repo
+#git push -u origin master <-- pushes file to the repo [you only have to do this the first time you use push]
+#git push <-- pushes file to repo
+
+git pull = pulls down the most up to date file
+#git pull <-- pulls down the most up to date file
